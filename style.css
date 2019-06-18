@@ -1,0 +1,55 @@
+/*
+
+#343a40
+#f7f7f9
+
+https://placeimg.com/64/64/tech/grayscale
+
+*/
+img {
+	align-items: center;
+}
+
+.dropdown-item, .dropdown-menu {
+  background-color: #343a40;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.dropdown-item:hover, dropdown-item:active {
+  background-color: #343a40;
+  color: rgba(255, 255, 255, 1);
+}
+
+.container {
+	background-color: #f7f7f9;
+	/*height: 50vh;*/
+}
+
+.page-footer {
+	padding-top: 5px;
+	margin-top: 15px;
+	background-color: #343a40;
+}
+
+.footer-text {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-head {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-link {
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-link:hover, .footer-link:active {
+	color: rgba(255, 255, 255, 1);
+}
+
+.media {
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+	padding-top: 5px;
+	margin-top: 15px;
+}
