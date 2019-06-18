@@ -1,13 +1,29 @@
-/*
-
-#343a40
-#f7f7f9
-
-https://placeimg.com/64/64/tech/grayscale
-
-*/
 img {
 	align-items: center;
+}
+
+h1 {
+	color: #1a1a1a;
+}
+
+h2 {
+	color: #1a1a1a;
+}
+
+h3 {
+	color: #1a1a1a;
+}
+
+h4 {
+	color: #1a1a1a;
+}
+
+h5 {
+	color: #1a1a1a;
+}
+
+h6 {
+	color: #1a1a1a;
 }
 
 .dropdown-item, .dropdown-menu {
@@ -22,7 +38,6 @@ img {
 
 .container {
 	background-color: #f7f7f9;
-	/*height: 50vh;*/
 }
 
 .page-footer {
@@ -41,10 +56,12 @@ img {
 
 .footer-link {
 	color: rgba(255, 255, 255, 0.5);
+	text-decoration: none;
 }
 
 .footer-link:hover, .footer-link:active {
 	color: rgba(255, 255, 255, 1);
+	text-decoration: none;
 }
 
 .media {
@@ -52,4 +69,8 @@ img {
 	margin-bottom: 15px;
 	padding-top: 5px;
 	margin-top: 15px;
+}
+
+.display-4 {
+	color: #1a1a1a;
 }
