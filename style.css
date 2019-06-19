@@ -87,6 +87,12 @@ h6 {
 	background-color: white;
 }
 
+.profile-pic {
+	width: 175px;
+	height: 175px;
+	object-fit: cover;
+}
+
 input {
 	background-color: white;
 }
